@@ -54,6 +54,7 @@
 
 Они храняться в файле composer.json.
 
+```json
 {
 "name": "laravel/laravel",
 "type": "project",
