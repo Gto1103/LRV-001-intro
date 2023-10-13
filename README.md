@@ -121,6 +121,7 @@
 "minimum-stability": "stable",
 "prefer-stable": true
 }
+```
 
 2. Изучите директорию `config` и опишите какие файлы хранятся в этой директории.
 
