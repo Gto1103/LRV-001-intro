@@ -1,0 +1,18 @@
+{
+    "name": "gto1103/lrv-001-intro",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gto1103\\Lrv001Intro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gto1103"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
